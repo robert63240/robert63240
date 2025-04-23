@@ -2,7 +2,7 @@
 - 👀 I’m interested in raspberrypi and linux programming
 - 🌱 I’m currently learning python and standar c 
 - 💞️ I’m looking to collaborate on modbus link
-- I've created a PV production management in my house with 1 pi zero and 3 
+- I've created a PV production management in my house with 3 pico giving information on current/solar/linky to 1 pi zero
 - 📫 How to reach me: robert63240
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
